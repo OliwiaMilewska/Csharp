@@ -1,2 +1,2 @@
-# Csharp
-C# projects that I created in college. 
+# C#
+Projects that I created in college. 
